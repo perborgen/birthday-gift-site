@@ -62,7 +62,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
+#gift-img-happy:hover, #gift-img-happy:active {
     background-image: url("images/happy.gif");
 }
 
